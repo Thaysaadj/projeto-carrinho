@@ -7,7 +7,7 @@
 
 ---
 
-#### Para rodar o porjeto 
+#### Para rodar o projeto 
 ##### npm run start no terminal
 
 ---
