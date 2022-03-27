@@ -1,4 +1,4 @@
-export const acimaDe = { 
+export const expensiveCartList = { 
   "value": 1401, 
   "items": [
     {

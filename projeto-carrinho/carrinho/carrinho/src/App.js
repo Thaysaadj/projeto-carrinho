@@ -1,9 +1,10 @@
-import { Carrinho } from "./Carrinho/Carrinho";
+import { Cart } from "./Cart/Cart";
+
 
 function App() {
   return (
     <div>
-      <Carrinho/>
+      <Cart/>
     </div>
   );
 }
