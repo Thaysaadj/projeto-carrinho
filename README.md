@@ -4,6 +4,12 @@
 - Desenvolver um “Carrinho de compras” usando dados mokados Json fornecidos pela empresa.
 - Listar os produtos, exibir o total da compra e exibir uma mensagem informando se o pedido possui frete grátis.
 
+### Desenvolvido por
+- Thayna Saad
+
+### Surge do Projeto 
+<a href=projeto-carrinho.thayna.surge.sh>projeto-carrinho.thayna.surge.sh</a>
+
 ### Requisitos 
 #### 
 - Listar os produtos provenientes da API.
@@ -27,9 +33,30 @@
 ---
 
 ### Para rodar o projeto 
-#### npm run start no terminal
 
----
+Clone este repositório em sua máquina:
 
-### Surge do Projeto 
-link projeto-carrinho.thayna.surge.sh
+$ git clone https://github.com/Thaysaadj/projeto-carrinho.git
+
+cd projeto-carrinho\projeto-carrinho\carrinho e rode:
+npm install
+
+para iniciar:
+npm run start
+
+--- 
+
+### Imagens do Projeto
+#### Tela que exibe o carrinho mais barato 
+
+![image](https://user-images.githubusercontent.com/90100923/160439462-c0659fdb-ded2-46f9-96bf-d27970374cd8.png)
+
+#### Tela que exibe carrinho mais caro com a mensagem de frete grátis 
+
+![image](https://user-images.githubusercontent.com/90100923/160439601-230c6891-5203-45a1-ae9e-e6b600fc1ceb.png)
+
+#### Versão mobile com responsividade, exibindo o funcionamento dos botões
+
+![image](https://user-images.githubusercontent.com/90100923/160439852-45306149-e364-44d9-8d28-0935d348f0ac.png)
+
+
