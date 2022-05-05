@@ -1,5 +1,5 @@
 # Carrinho - Projeto teste Codeby
-### Obejtivo
+### Objetivo
 #### 
 - Desenvolver um “Carrinho de compras” usando dados mokados Json fornecidos pela empresa.
 - Listar os produtos, exibir o total da compra e exibir uma mensagem informando se o pedido possui frete grátis.
